@@ -12,6 +12,7 @@ SHFT+F6
 
 Quick Fix 
 (including string resource refactor): ALT+ENTER
+-> puts a string in the strings.xml!!! awesome !!!
 
 Go to Class Definition: 
 (Mac) CMD+B, (Windows) CTRL+B

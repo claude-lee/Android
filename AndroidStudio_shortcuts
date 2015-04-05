@@ -1,0 +1,20 @@
+Find Class: 
+(Mac) CMD+O, (Windows) CTRL+N
+
+Find File: 
+(Mac) CMD+SHFT+O, (Windows) CTRL+SHFT+N
+
+Refactor/Rename: 
+SHFT+F6
+
+Quick Fix 
+(including string resource refactor): ALT+ENTER
+
+Go to Class Definition: 
+(Mac) CMD+B, (Windows) CTRL+B
+
+Run: 
+(Mac) CTRL+R, (Windows) SHFT+F10
+
+Debug: 
+(Mac) CTRL+D, (Windows) SHFT+F9

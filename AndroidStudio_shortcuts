@@ -20,6 +20,12 @@ Cmd+SHFT+O
 Create new File:
 CMD+N
 
+Jump to class declaration:
+CMD+B
+
+Go back
+CMD+O
+
 Go to Class Definition: 
 (Mac) CMD+B, (Windows) CTRL+B
 

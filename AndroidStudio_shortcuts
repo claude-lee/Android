@@ -11,7 +11,8 @@ Refactor/Rename:
 SHFT+F6
 
 Quick Fix 
-(including string resource refactor): ALT+ENTER
+ALT+ENTER
+(including string resource refactor):
 -> puts a string in the strings.xml!!! awesome !!!
 
 Jump to another file:
@@ -20,17 +21,25 @@ Cmd+SHFT+O
 Create new File:
 CMD+N
 
-Jump to class declaration:
+Jump to class definition:
 CMD+B
 
-Go back
+Go back:
 CMD+O
 
-Go to Class Definition: 
-(Mac) CMD+B, (Windows) CTRL+B
 
 Run: 
-(Mac) CTRL+R, (Windows) SHFT+F10
+CTRL+R, (Windows) SHFT+F10
 
 Debug: 
 (Mac) CTRL+D, (Windows) SHFT+F9
+
+Documentation:
+fn+F1
+
+Show project:
+CMD+1
+
+
+
+
